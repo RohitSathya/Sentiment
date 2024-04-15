@@ -1,0 +1,7 @@
+Flask
+Gunicorn
+nltk
+deep-translator
+youtube-transcript-ap
+vaderSentiment
+spacy
